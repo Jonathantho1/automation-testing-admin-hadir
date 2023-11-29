@@ -73,7 +73,7 @@ Example date: today date is November 3rd, 2023 change to 3 Nov 2023
     }
 ```
 ### Website
-**Notes:** do these steps if the files exist. the red circle mean delete the data, for the blue circle mean update the data to do so just click the kebab button on that data. 
+**Notes:** do these steps if the files exist. the red circle mean delete the data, for the blue circle mean update the data. To do so just click the kebab button on that data. 
 
 Website: https://staging-hadir.ptkta.com/authentication/login username: admin@hadir.com password: admin@hadir
 
