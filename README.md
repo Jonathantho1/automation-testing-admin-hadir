@@ -73,22 +73,15 @@ Example date: today date is November 3rd, 2023 change to 3 Nov 2023
     }
 ```
 ### Website
-**Notes:** do these steps if the files exist. 
+**Notes:** do these steps if the files exist. the red circle mean delete the data, for the blue circle mean update the data to do so just click the kebab button on that data. 
 
 Website: https://staging-hadir.ptkta.com/authentication/login username: admin@hadir.com password: admin@hadir
-
-**red circle:** delete data.
-
-**black circle:** delete button.
-
-**blue circle:** update data.
-
-**pink circle:** update button.
 
 #### 1. management - Unit
 ![Unit](https://github.com/Jonathantho1/automation-testing-admin-hadir/assets/98079109/d4ce8849-d1ed-40d9-bd00-69e73fd6edf5)
 
 #### 2. management - Posisi
+Noted: if you see ABC IT Team change it to ABC HRD
 ![Posisi](https://github.com/Jonathantho1/automation-testing-admin-hadir/assets/98079109/7018eb8c-8598-40e6-bde7-d908b699f149)
 
 #### 3. management - Client Upliner
