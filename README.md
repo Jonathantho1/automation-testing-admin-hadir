@@ -120,6 +120,7 @@ Website: https://staging-hadir.ptkta.com/authentication/login username: admin@ha
 ## Run the Program
 go to automation-testing-admin-hadir\src\test\java\com\juaracoding\RunnerTest.java and run it
 
+## Result
 to see the result after running the program you can go to automation-testing-admin-hadir\target\cucumber-report.html or automation-testing-admin-hadir\target\extend-report.html
 
 ### Cucumber-report.hmtl
